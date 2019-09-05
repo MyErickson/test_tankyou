@@ -1,0 +1,35 @@
+body{
+  background-image:url("../../../images/bg-home.jpg");
+  background-size: cover;
+
+  
+}
+
+.header{
+  height: 20em;
+  padding:0em;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1em;
+
+}
+
+.content{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2%;
+}
+
+.header_image{
+  background-image: url('../../../images/livraison.png');
+  background-size: cover;
+  width: 25%
+}
+
+.head{
+  display: flex;
+  padding: 1%;
+  margin-bottom:3% ;
+  height: 10%;
+  background-color: #E4E4E4
+}

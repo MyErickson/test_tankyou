@@ -1,0 +1,34 @@
+.card_choose{
+    display: flex;
+    justify-content: flex-end
+   
+
+}
+
+.card_choose_decline,.card_choose_accept{
+    margin:2%;
+
+  
+}
+.card_choose_accept{
+    color: red
+}
+.card_choose_decline:hover,.card_choose_accept:hover{
+    color:blue;
+    cursor: pointer;
+ }
+
+.ant-card-head{
+    border-bottom: none !important
+}
+
+
+.card {
+ 
+    width: 50% !important;
+  
+}
+.ant-card{
+    border-radius: 10px !important;
+}
+
